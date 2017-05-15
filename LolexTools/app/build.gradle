@@ -7,9 +7,9 @@ android {
     defaultConfig {
         applicationId "com.lolexorg.lolextools"
         minSdkVersion 14
-        targetSdkVersion 21
-        versionCode 1
-        versionName "1.0"
+        targetSdkVersion 25
+        versionCode 10000001
+        versionName "1.0alpha0"
     }
     buildTypes {
         release {
