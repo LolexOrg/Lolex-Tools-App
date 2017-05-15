@@ -14,8 +14,16 @@
 		android:layout_marginRight="60dp"
 		android:layout_marginBottom="60dp"
 		android:layout_marginTop="60dp"
-		android:layout_marginLeft="-256dp"
+		android:layout_marginLeft="-230dp"
 		android:layout_width="wrap_content"
         android:layout_height="wrap_content">
+	</TextView>
+	<TextView
+		android:text="@string/ud"
+		android:textSize="35sp"
+		android:layout_marginLeft="100dp"
+		android:layout_marginTop="160dp"
+		android:layout_width="400dp"
+        android:layout_height="300dp">
 	</TextView>
 </LinearLayout>

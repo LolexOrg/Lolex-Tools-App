@@ -3,7 +3,8 @@
 
     <string name="app_name">LolexTools</string>
     <string name="hello_world">Hello world!</string>
-	<string name="Title">LolexOrg\t</string>
-	<string name="appname">\tLolex-Tools</string>
+	<string name="Title">LolexOrg</string>
+	<string name="appname">Lolex-Tools</string>
+	<string name="ud"><b>This app is currently under development. Contribute at https://github.com/lolexorg/Lolex-Tools-App.git</b></string>
 
 </resources>
